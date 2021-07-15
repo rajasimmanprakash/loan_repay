@@ -14,7 +14,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="https://www.getpostman.com/collections/e2bac074c94b16257dfe">Loan API URL</a></li>
+    <li><a href="https://www.getpostman.com/collections/e2bac074c94b16257dfe">Worked Loan API's Collections</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
