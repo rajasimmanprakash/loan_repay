@@ -35,7 +35,7 @@ You must have working laravel framework setup, xampp/wamp setup and postman soft
 
 ### Installation
 
-* For Laravel installation refer guidance URL : https://laravel.com/docs/8.x/installation
+* Unzip loan project. For Laravel installation / execution refer guidance URL : https://laravel.com/docs/8.x/installation
 * For xampp/wamp installation refer guidance URL : XAMMP - https://www.apachefriends.org/download.html / WAMP - https://www.c-sharpcorner.com/article/how-to-install-wamp-server-in-windows-10/
 * For Postman installation refer guidance URL : https://www.postman.com/downloads/
 
